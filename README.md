@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saurolyn
-- 👀 I’m interested in studying Computer Science at Northern Arizona University
+- 👀 I’m interested in studying Immersive Media and Games at Northern Arizona University
 - 🌱 I’m currently learning Python, C, Javascript, and GML
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can't code
