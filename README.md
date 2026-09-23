@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saurolyn
 - 👀 I’m interested in studying Immersive Media and Games at Northern Arizona University
 - 🌱 I’m currently learning Python, C, Javascript, and GML
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Ask <3
 - ⚡ Fun fact: I can't code
 
 <!---
